@@ -1,0 +1,8 @@
+output/
+__pycache__/
+*.pyc
+patch-report.json
+missing-report.json
+input/
+*.dll
+*.ini
